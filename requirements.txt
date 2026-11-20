@@ -1,0 +1,4 @@
+networkx>=3.0
+matplotlib>=3.7
+pygame>=2.5
+pytest>=7.4
